@@ -80,28 +80,28 @@
   STATUS → <tspan class="green">LIVE ✓</tspan>
 </text>
   <!-- CURRENTLY -->
-  <text x="50" y="640" class="section">
-  ├─[ CURRENTLY ]
+  <!-- CURRENTLY -->
+<text x="30" y="650" class="section">
+  ├─[ CURRENTLY ]────────────────────────────────
 </text>
 
-<text x="50" y="685" class="text">
+<text x="50" y="695" class="text">
   › Building real-world AI &amp; full-stack projects
 </text>
 
-<text x="50" y="720" class="text">
+<text x="50" y="735" class="text">
   › Learning Machine Learning, Data Science &amp; Cloud
 </text>
 
-<text x="50" y="755" class="text">
+<text x="50" y="775" class="text">
   › Turning ideas into useful, deployed applications
 </text>
-  <!-- AVAILABILITY -->
-  <!-- STATUS -->
-<text x="30" y="725" class="green"
+
+<!-- STATUS -->
+<text x="30" y="825" class="green"
       font-family="DejaVu Sans Mono, monospace"
       font-size="18"
       font-weight="bold">
   STATUS &gt; BUILDING • LEARNING • SHIPPING ✓
 </text>
-
 </svg>
