@@ -117,7 +117,15 @@
 
 <br><br>
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">
+  <span style="color:#a855f7;">GITHUB</span>
+  <span style="color:#f97316;"> STATS</span>
+</h2>
+
+<p align="center">
+  <code>$ git stats --profile</code>
+</p>
+<br><br>
 
 ![](https://github-readme-stats.shion.dev/api?username=abhix1504&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
@@ -143,4 +151,16 @@
 
 ---
 
-<p align="center"><b>"Code. Learn. Build. Repeat."</b></p>
+---
+
+<p align="center">
+  <code>$ echo "Code. Learn. Build. Repeat."</code>
+</p>
+
+<p align="center">
+  <code>STATUS: BUILDING...</code>
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ and lots of debugging.</sub>
+</p>
