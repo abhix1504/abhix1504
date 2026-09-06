@@ -116,15 +116,10 @@
 -->
 
 <br><br>
-
 <h2 align="center">
-  <span style="color:#a855f7;">GITHUB</span>
-  <span style="color:#f97316;"> STATS</span>
+  <span style="color:#a855f7; font-family:monospace;">GITHUB</span>
+  <span style="color:#f97316; font-family:monospace;"> STATS</span>
 </h2>
-
-<p align="center">
-  <code>$ git stats --profile</code>
-</p>
 <br><br>
 
 ![](https://github-readme-stats.shion.dev/api?username=abhix1504&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
