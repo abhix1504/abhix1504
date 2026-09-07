@@ -48,7 +48,7 @@
   <text x="38" y="358" class="feature">&gt; Deployed live and accessible from any browser</text>
 
   <text x="544" y="211" class="label">STACK</text>
-  <text x="544" y="248" class="stack">Python  •  TensorFlow/Keras  •  Flask  •  Render</text>
+  <text x="544" y="248" class="stack">Python  •  TensorFlow/Keras  •  Streamlit •  Render</text>
 
   <rect x="544" y="279" width="578" height="1" fill="#242938"/>
   <text x="544" y="315" class="label">LIVE DEMO</text>
