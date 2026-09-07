@@ -143,15 +143,6 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">
-  <span style="color:#a855f7; font-family:monospace;">GITHUB</span>
-  <span style="color:#f97316; font-family:monospace;"> TROPHIES</span>
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhix1504&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 <img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
 
 <br><br>
@@ -161,16 +152,6 @@
 ![](https://streak-stats.demolab.com/?user=abhix1504&theme=monokai&hide_border=false)
 <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhix1504&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhix1504/abhix1504/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhix1504/abhix1504/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abhix1504/abhix1504/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ### `├─[ RANDOM_DEV_QUOTE ]─────────────────────────────────────`
 
