@@ -106,6 +106,16 @@
 
 <br><br>
 
+<a href="https://heart-disease-risk-predictor-ji32.onrender.com/">
+  <img src="./assets/heart-disease-risk-predictor-card.svg" alt="Heart Disease Risk Predictor — ML-Powered Risk Assessment" width="100%" />
+</a>
+
+<br><br>
+
+<a href="https://digit-recognition-system-twv0.onrender.com/">
+  <img src="./assets/digit-recognition-card.svg" alt="Digit Recognition System — Deep Learning Handwritten Digit Classifier" width="100%" />
+</a>
+
 <!--
   Add more real projects the same way: duplicate assets/project-card-template.svg,
   fill in the EDIT_ME lines, save it under assets/, then:
@@ -116,10 +126,9 @@
 -->
 
 <br><br>
-<h2 align="center">
-  <span style="color:#a855f7; font-family:monospace;">GITHUB</span>
-  <span style="color:#f97316; font-family:monospace;"> STATS</span>
-</h2>
+
+<img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
+
 <br><br>
 
 ![](https://github-readme-stats.shion.dev/api?username=abhix1504&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
@@ -139,7 +148,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhigyanbhatnagar13)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhigyanbhatnagar165)
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AbhigyanBhatnagar)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhigyanbhatnagar165@gmail.com)
 
 </div>
