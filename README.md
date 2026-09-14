@@ -130,6 +130,12 @@
   <img src="./assets/digit-recognition-card.svg" alt="Digit Recognition System — Deep Learning Handwritten Digit Classifier" width="100%" />
 </a>
 
+<br><br>
+
+<a href="https://ai-powered-hospital-emergency-load.onrender.com/">
+  <img src="./assets/hospital-emergency-load-card.svg" alt="AI-Powered Hospital Emergency Load — ML-Powered Emergency Load Prediction" width="100%" />
+</a>
+
 <!--
   Add more real projects the same way: duplicate assets/project-card-template.svg,
   fill in the EDIT_ME lines, save it under assets/, then:
