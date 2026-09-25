@@ -153,11 +153,22 @@
 
 <br><br>
 
-![](https://github-readme-stats.shion.dev/api?username=abhix1504&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)
-<br/>
-![](https://streak-stats.demolab.com/?user=abhix1504&theme=monokai&hide_border=false)
-<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhix1504&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhix1504&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=10&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9" width="49%" alt="Abhigyan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix1504&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" width="38%" alt="Abhigyan's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhix1504&hide_border=true&border_radius=10&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" alt="Abhigyan's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/a970ff/abhix1504" alt="Abhigyan's contribution heatmap" width="100%" />
+</p>
 
 ### `├─[ RANDOM_DEV_QUOTE ]─────────────────────────────────────`
 
