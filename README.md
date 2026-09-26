@@ -141,7 +141,7 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ====================================================== -->
-<!-- GITHUB STATS & CONTRIBUTIONS                          -->
+<!-- GITHUB STATS                                           -->
 <!-- ====================================================== -->
 
 <img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
@@ -155,15 +155,19 @@
 
 <br><br>
 
-### `├─[ CONTRIBUTION ACTIVITY ]────────────────────────────────`
+<img src="./assets/contribution-activity-header.svg" alt="Contribution Activity" width="100%" />
+
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
 
-<br>
+<br><br>
 
-### `├─[ RANDOM_DEV_QUOTE ]─────────────────────────────────────`
+<img src="./assets/random-quote-header.svg" alt="Random Dev Quote" width="100%" />
+
+<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
