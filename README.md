@@ -149,13 +149,13 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
+  <img src="./assets/contribution-graph.svg" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
 
-<!-- If the live graph above doesn't load (Vercel API rate limits/outages),
-     swap the <img> block above for this static local version instead:
+<!-- Prefer the live graph instead? Swap the block above for this one -
+     it can rate-limit or go down, which is why the static version above is the default:
 <p align="center">
-  <img src="./assets/contribution-graph.svg" width="100%" alt="Abhigyan's contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
 -->
 
