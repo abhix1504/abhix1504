@@ -141,7 +141,7 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ====================================================== -->
-<!-- GITHUB STATS (contribution graph only)                 -->
+<!-- GITHUB STATS                                           -->
 <!-- ====================================================== -->
 
 <img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
@@ -158,7 +158,6 @@
   <img src="./assets/contribution-graph.svg" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
 -->
-
 
 <br><br>
 
