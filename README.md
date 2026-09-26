@@ -136,18 +136,13 @@
   <img src="./assets/hospital-emergency-load-card.svg" alt="AI-Powered Hospital Emergency Load — ML-Powered Emergency Load Prediction" width="100%" />
 </a>
 
-<!--
-  Add more real projects the same way: duplicate assets/project-card-template.svg,
-  fill in the EDIT_ME lines, save it under assets/, then:
-
-  <a href="https://github.com/abhix1504/your-repo">
-    <img src="./assets/your-project-card.svg" alt="Your Project" width="100%" />
-  </a>
--->
-
 <br><br>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ====================================================== -->
+<!-- GITHUB STATS & CONTRIBUTIONS                          -->
+<!-- ====================================================== -->
 
 <img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
 
@@ -158,21 +153,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix1504&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" width="38%" alt="Abhigyan's most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhix1504&hide_border=true&border_radius=10&background=0D1117&ring=A970FF&fire=A970FF&currStreakLabel=A970FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" alt="Abhigyan's GitHub streak" />
-</p>
+<br><br>
+
+### `├─[ CONTRIBUTION ACTIVITY ]────────────────────────────────`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/a970ff/abhix1504" alt="Abhigyan's contribution heatmap" width="100%" />
-</p>
+<br>
 
 ### `├─[ RANDOM_DEV_QUOTE ]─────────────────────────────────────`
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <br><br>
 
 ## 🤝 Let's Connect
@@ -184,8 +178,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhigyanbhatnagar165@gmail.com)
 
 </div>
-
----
 
 ---
 
