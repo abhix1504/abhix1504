@@ -141,23 +141,12 @@
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <!-- ====================================================== -->
-<!-- GITHUB STATS                                           -->
+<!-- GITHUB STATS (contribution graph only)                 -->
 <!-- ====================================================== -->
 
 <img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
 
 <br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhix1504&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&border_radius=10&bg_color=0D1117&title_color=A970FF&icon_color=A970FF&text_color=C9D1D9" width="49%" alt="Abhigyan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhix1504&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=10&bg_color=0D1117&title_color=A970FF&text_color=C9D1D9" width="38%" alt="Abhigyan's most used languages" />
-</p>
-
-<br><br>
-
-<img src="./assets/contribution-activity-header.svg" alt="Contribution Activity" width="100%" />
-
-<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
