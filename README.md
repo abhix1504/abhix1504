@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abhigyan Bhatnagar</h1>
-<h3 align="center">B.Tech CS student building AI/ML apps — Data Analytics & Machine Learning</h3>
+<p align="center">
+  <img src="./assets/name-banner.svg" alt="Abhigyan Bhatnagar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/profile-circle.png" width="140" align="middle" alt="Abhigyan — Developer, Learner, Dreamer" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tagline.svg" width="480" align="middle" alt="Building with Code • Exploring AI x Cloud" />
+</p>
 
 <div align="center">
 
@@ -7,60 +14,76 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/abhigyanbhatnagar165)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhigyanbhatnagar165@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=abhix1504&style=for-the-badge&color=blueviolet" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=abhix1504&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,mysql,mongodb,tensorflow,pytorch,docker,aws,gcp,vercel,anaconda&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,mysql,mongodb,tensorflow,pytorch,docker,aws,gcp,vercel,anaconda&theme=dark" alt="Quick glance at my stack" />
 </p>
 
----
+<br>
 
-### 🧠 About Me
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-```text
-$ whoami
-Abhigyan Bhatnagar — B.Tech CSE @ SRMS CET, Bareilly (AKTU) | Class of 2027
+<!-- ====================================================== -->
+<!-- ABOUT                                                  -->
+<!-- ====================================================== -->
 
-$ cat interests.txt
-Data Analytics · Machine Learning · Deep Learning · Backend Development (FastAPI)
+<p align="center">
+  <img src="./assets/hero-portrait.png" width="170" align="middle" alt="Abhigyan Bhatnagar — pixel art portrait" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/about-terminal.svg" width="66%" align="middle" alt="About Abhigyan Bhatnagar" />
+</p>
 
-$ ls projects/
-mindscope-ai/  heart-disease-risk-predictor/  digit-recognition-system/  hospital-emergency-load/
+<p align="center">
+  <img src="./assets/profile-showcase.gif" alt="Abhigyan — Build, Learn, Improve, Repeat" width="260" />
+</p>
 
-$ echo $STATUS
-"Building, learning, shipping — one model at a time."
-```
+<br>
 
-- 🎓 Currently pursuing B.Tech in Computer Science and Engineering (2023–2027)
-- 🤖 Exploring applied AI/ML — from data preprocessing to deployed, working apps
-- 🏆 Meta Front-End Developer Professional Certificate & AWS Certified Cloud Practitioner
-- 💻 400+ problems solved on LeetCode
-- 📫 Reach me at **abhigyanbhatnagar165@gmail.com**
+### `├─[ CURRENTLY ]────────────────────────────────────────────`
 
----
+<p align="center">
+  <img src="./assets/coding-desk.png" width="24%" alt="Coding late" />
+  <img src="./assets/gym-goals.png" width="24%" alt="Same guy, bigger goals" />
+  <img src="./assets/mountain-view.png" width="24%" alt="Good things take time" />
+  <img src="./assets/night-desk.png" width="24%" alt="Just another day closer to my dreams" />
+</p>
 
-### 🛠️ Tech Stack
+<br>
 
-**Languages**
+<img src="./assets/now-panel.svg" width="100%" alt="What I'm exploring now" />
+
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<p align="center">
+  <img src="./assets/tech-stack-header.svg" alt="Tech Stack" width="100%" />
+</p>
+
+### `├─[ LANGUAGES ]────────────────────────────────────────────`
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**Frontend**
+### `├─[ FRONTEND ]─────────────────────────────────────────────`
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Frameworks**
+### `├─[ BACKEND_&_FRAMEWORKS ]────────────────────────────────`
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases**
+### `├─[ DATABASES ]────────────────────────────────────────────`
+
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**AI & Machine Learning**
+### `├─[ AI_&_MACHINE_LEARNING ]────────────────────────────────`
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -69,7 +92,8 @@ $ echo $STATUS
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-**DevOps & Cloud**
+### `└─[ DEVOPS_&_CLOUD ]───────────────────────────────────────`
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -78,42 +102,72 @@ $ echo $STATUS
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
----
+<br><br>
 
-### 🚀 Featured Projects
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-| Project | Stack | Live Demo |
-|---|---|---|
-| **MindScope AI** — AI-powered mental health insights | Python, FastAPI, Scikit-learn, Pandas, NumPy, HTML/CSS/JS | [Visit ↗](https://mental-health-score-1-6dlw.onrender.com/) |
-| **Heart Disease Risk Predictor** — ML-powered risk assessment | Python, Scikit-learn, Pandas, NumPy | [Visit ↗](https://heart-disease-risk-predictor-ji32.onrender.com/) |
-| **Handwritten Digit Recognition System** — CNN digit classifier | Python, TensorFlow, Keras, CNN, OpenCV, Streamlit | [Visit ↗](https://digit-recognition-system-twv0.onrender.com/) |
-| **AI-Powered Hospital Emergency Load Predictor** — ML load forecasting | Python, Scikit-learn, Pandas, NumPy | [Visit ↗](https://ai-powered-hospital-emergency-load.onrender.com/) |
+<!-- ====================================================== -->
+<!-- FEATURED PROJECTS                                      -->
+<!-- ====================================================== -->
 
----
+<img src="./assets/featured-projects.svg" alt="Featured Projects" width="100%" />
 
-### 📊 GitHub Stats
+<br><br>
+
+<a href="https://mental-health-score-1-6dlw.onrender.com/">
+  <img src="./assets/mindscope-card.svg" alt="MindScope AI — AI-Powered Mental Health Insights" width="100%" />
+</a>
+
+<br><br>
+
+<a href="https://heart-disease-risk-predictor-ji32.onrender.com/">
+  <img src="./assets/heart-disease-risk-predictor-card.svg" alt="Heart Disease Risk Predictor — ML-Powered Risk Assessment" width="100%" />
+</a>
+
+<br><br>
+
+<a href="https://digit-recognition-system-twv0.onrender.com/">
+  <img src="./assets/digit-recognition-card.svg" alt="Digit Recognition System — Deep Learning Handwritten Digit Classifier" width="100%" />
+</a>
+
+<br><br>
+
+<a href="https://ai-powered-hospital-emergency-load.onrender.com/">
+  <img src="./assets/hospital-emergency-load-card.svg" alt="AI-Powered Hospital Emergency Load — ML-Powered Emergency Load Prediction" width="100%" />
+</a>
+
+<br><br>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- ====================================================== -->
+<!-- GITHUB STATS                                           -->
+<!-- ====================================================== -->
+
+<img src="./assets/github-stats-header.svg" alt="GitHub Stats" width="100%" />
+
+<br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhix1504&show_icons=true&theme=radical&hide_border=true" alt="Abhigyan's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhix1504&theme=radical&hide_border=true" alt="Abhigyan's GitHub streak" height="165" />
+  <img src="./assets/contribution-graph.svg" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
 
+<!-- Prefer the live graph instead? Swap the block above for this one -
+     it can rate-limit or go down, which is why the static version above is the default:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhix1504&hide_border=true&area=true&radius=10&bg_color=0D1117&color=A970FF&line=A970FF&point=FFFFFF&area_color=A970FF&title_color=A970FF" width="100%" alt="Abhigyan's contribution activity graph" />
 </p>
+-->
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-</p>
+<br><br>
 
----
+<img src="./assets/random-quote-header.svg" alt="Random Dev Quote" width="100%" />
 
-### 🏅 Certifications
+<br>
 
-- **Meta Front-End Developer Professional Certificate** — Coursera / Meta, 2024
-- **AWS Certified Cloud Practitioner** — Amazon Web Services, 2024
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<br><br>
 
 ## 🤝 Let's Connect
 
